@@ -129,6 +129,7 @@ enum VideoCaptureAPIs {
        CAP_XINE         = 2400,         //!< XINE engine (Linux)
        CAP_UEYE         = 2500,         //!< uEye Camera API
        CAP_OBSENSOR     = 2600,         //!< For Orbbec 3D-Sensor device/module (Astra+, Femto)
+       CAP_LIBCAMERA    = 2700,         //!< libcamera
      };
 
 
